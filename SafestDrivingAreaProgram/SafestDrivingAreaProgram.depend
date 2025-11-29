@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1764381996 source:/home/paulmichaelolsen/C++ Projects/Tutorials and Learning/SafestDrivingAreaProgram/main.cpp
+	<iostream>
+	<string>
+
