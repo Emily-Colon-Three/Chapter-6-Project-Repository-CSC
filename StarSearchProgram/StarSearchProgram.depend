@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1764455600 source:/home/paulmichaelolsen/C++ Projects/Tutorials and Learning/StarSearchProgram/main.cpp
+	<iostream>
+	<random>
+	<iomanip>
+
